@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
+#include <err.h>
 
 #include <sys/types.h>
 #include <sys/gpio.h>
